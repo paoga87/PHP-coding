@@ -2,7 +2,16 @@
 
 <html lang="en">
 <head>
-  
+  <!-- External Style -->
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Raleway">
+	
+   <!-- Internal Style -->	
+   	<style>
+           body {
+             font-family: 'Raleway', serif;
+             font-size: inherited;
+            }     
+       </style>
 </head>
 <body>
 
