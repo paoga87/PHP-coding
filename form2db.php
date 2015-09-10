@@ -13,6 +13,15 @@
 
    <!-- Style sheet link -->
 	<link href="css/main.css" rel="stylesheet" media="all">
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Raleway">
+	
+   <!-- Internal Style -->	
+   	<style>
+           body {
+             font-family: 'Raleway', serif;
+             font-size: inherited;
+            }     
+       </style>
 	
 </head>
 <body>
@@ -32,7 +41,7 @@
     </div>
     
       <br> <br>
-      <div align="center">
+      <div align="center" style="border:1px solid black; background: #f7f7f7;">
         <h2>Acknowledgement Form</h2>
         <p>Please fill out the form below with your information and click submit.</p>
         
