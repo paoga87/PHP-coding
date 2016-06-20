@@ -1,2 +1,2 @@
 # php
-General coding tasks I work on...
+PHP DB connection examples
